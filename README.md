@@ -28,7 +28,7 @@ Run the below command so that the image is deployed into a docker container and 
 Use the below command to get the same container running.
 
 ```
-docker run <<images>>
+docker run <<image id>>
 ```
 
 you should get the below message.
